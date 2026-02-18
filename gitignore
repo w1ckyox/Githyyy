@@ -1,0 +1,11 @@
+# Ignorar arquivos de cores/configuração temporários
+*.log
+.vscode/
+
+# Ignorar resultados de compilação de C
+*.exe
+*.o
+*.out
+
+# Se as cores neon vêm de uma pasta específica (ex: 'Nova pasta/'), ignore-a:
+Nova pasta/
